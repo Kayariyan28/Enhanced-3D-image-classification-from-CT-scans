@@ -105,7 +105,7 @@ python src/inference.py \
 An 8-slice Grad-CAM montage (as shown below) is saved to `outputs/gradcam.png`:
 
 <p align="center"> 
-  <img src="assets/gradcam_montage.png" width="680"> 
+  <img src="gradcam_montage.png" width="680"> 
 </p>
 
 ---
