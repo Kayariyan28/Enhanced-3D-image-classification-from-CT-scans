@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 ### 2. Download MosMedData
 
-* Register & download at [MosMed.ai](https://mosmed.ai/datasets/covid19_1110).
+* Download at [MosMed.ai]([https://mosmed.ai/datasets/covid19_1110](https://www.medrxiv.org/content/10.1101/2020.05.20.20100362v1)).
 * Place unzipped folders in `data/mosmed/`.
 
 ### 3. Train
