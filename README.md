@@ -148,7 +148,7 @@ Input: 128×128×64×1
 Confusion Matrix:
 
 <p align="center"> 
-  <img src="assets/confusion_matrix.png" width="340"> 
+  <img src="confusion_matrix.png" width="340"> 
 </p>
 
 Training & Validation Curves (Fold 3):
