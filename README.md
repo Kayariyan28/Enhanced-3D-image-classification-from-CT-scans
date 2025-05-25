@@ -125,12 +125,12 @@ An 8-slice Grad-CAM montage (as shown below) is saved to `outputs/gradcam.png`:
 
 
 <p align="center"> 
-  <img src="outpoutputs/model.png" width="680"> 
+  <img src="model.png" width="680"> 
 </p>
 
 
 <p align="center"> 
-  <img src="outpoutputs/model3.png" width="680"> 
+  <img src="model2.png" width="680"> 
 </p>
 
 * **Total params:** 6,140,369
