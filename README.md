@@ -199,8 +199,8 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
 **Karan Chandra Dey** – AI Product Manager
 
-* 📧 Email: [you@example.com](mailto:you@example.com)
-* 🔗 LinkedIn: [https://linkedin.com/in/karan-chandra-dey](https://linkedin.com/in/karan-chandra-dey)
+* 📧 Email: [you@example.com](mailto:karandey3@outlook.com)
+* 🔗 LinkedIn: [https://linkedin.com/in/karan-chandra-dey][https://linkedin.com/in/karan-chandra-dey](https://www.linkedin.com/in/karan-chandra-dey-23392b1b9 )
 
 Have ideas or radiology data to share? Open an issue or pull request—**collaborations are welcome!**
 
