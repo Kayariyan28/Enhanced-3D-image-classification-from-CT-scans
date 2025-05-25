@@ -155,7 +155,7 @@ Training & Validation Curves (Fold 3):
 
 <p align="center"> 
   <img src="learning_curves.png" width="600">
-  <img src="assets/auc_curve.png" width="400">
+  <img src="auc_curve.png" width="400">
 </p>
 
 **Interpretation:**
