@@ -1,7 +1,4 @@
-Here's the complete, structured, copy-paste ready `README.md` markdown file:
 
-````markdown
-<!-- PROJECT TITLE -->
 # Volumetric Chest CT Triage 🚑🧠📊
 *A baseline 3-D CNN pipeline for radiology-grade triage with Grad-CAM explainability.*
 
