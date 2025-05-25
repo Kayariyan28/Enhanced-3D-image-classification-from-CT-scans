@@ -183,7 +183,7 @@ If you use this repo, please cite:
   author = {Dey, Karan Chandra et al.},
   year   = 2025,
   howpublished = {GitHub},
-  url    = {https://github.com/<YOU>/chest-ct-triage}
+  url    = {https://github.com/Kayariyan28/Volumetric-Chest-CT-Triage.git}
 }
 ```
 
