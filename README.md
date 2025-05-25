@@ -123,13 +123,15 @@ An 8-slice Grad-CAM montage (as shown below) is saved to `outputs/gradcam.png`:
 
 ## Model Architecture
 
-```
-Input: 128×128×64×1 
-→ Conv3D (7×7, stride=2)
-→ [Residual Block ×4]
-→ GlobalAvgPool
-→ Dense(1, sigmoid)
-```
+
+<p align="center"> 
+  <img src="outpoutputs/model.png" width="680"> 
+</p>
+
+
+<p align="center"> 
+  <img src="outpoutputs/model3.png" width="680"> 
+</p>
 
 * **Total params:** 6,140,369
 * Implemented in [`src/model_factory.py`](src/model_factory.py).
