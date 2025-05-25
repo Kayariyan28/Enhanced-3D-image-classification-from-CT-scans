@@ -206,8 +206,4 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
 Have ideas or radiology data to share? Open an issue or pull request—**collaborations are welcome!**
 
-```
-
-Copy-paste this into your repository as `README.md`. GitHub will automatically render the badges, tables, and images correctly.
-```
 
